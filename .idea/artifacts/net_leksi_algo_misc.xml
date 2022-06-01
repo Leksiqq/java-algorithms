@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="net.leksi.algo.misc">
+    <output-path>$PROJECT_DIR$/out/artifacts/net_leksi_algo_misc</output-path>
+    <root id="archive" name="net.leksi.algo.misc.jar">
+      <element id="module-output" name="misc" />
+      <element id="module-source" name="misc" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/algorithms.iml" filepath="$PROJECT_DIR$/algorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/datas/datas.iml" filepath="$PROJECT_DIR$/datas/datas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/misc/misc.iml" filepath="$PROJECT_DIR$/misc/misc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/segtree/segtree.iml" filepath="$PROJECT_DIR$/segtree/segtree.iml" />
+    </modules>
+  </component>
+</project>

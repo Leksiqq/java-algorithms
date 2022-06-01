@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="net.leksi.algo.segtree">
+    <output-path>$PROJECT_DIR$/out/artifacts/net_leksi_algo_segtree</output-path>
+    <root id="archive" name="net.leksi.algo.segtree.jar">
+      <element id="module-output" name="segtree" />
+      <element id="module-source" name="segtree" />
+    </root>
+  </artifact>
+</component>
